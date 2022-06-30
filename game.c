@@ -1,5 +1,3 @@
-#MY GAME ON C PROGRAMMING
-
 #include <stdio.h>
 
 void go_south_east(int lat, int lon)
