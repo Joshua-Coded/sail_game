@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main()
+{
+
+  char name[23];
+
+  printf("Enter your full name?");
+  scanf("%s", name);
+printf("your full name is:\t %s", name);
+return 0;
+
+}
