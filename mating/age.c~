@@ -1,0 +1,12 @@
+#include<stdio.h>
+
+int main()
+{
+  int age;
+
+  printf("Enter your age: \n");
+  scanf("%i", &age);
+  printf("Your %i is :", age);
+  return 0;
+  
+}
